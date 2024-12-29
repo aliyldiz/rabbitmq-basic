@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Publisher", "RabbitMQ.Publisher\RabbitMQ.Publisher.csproj", "{200B9709-6E5F-4E9E-A11E-8557CF3DAE7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200B9709-6E5F-4E9E-A11E-8557CF3DAE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200B9709-6E5F-4E9E-A11E-8557CF3DAE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200B9709-6E5F-4E9E-A11E-8557CF3DAE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200B9709-6E5F-4E9E-A11E-8557CF3DAE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
